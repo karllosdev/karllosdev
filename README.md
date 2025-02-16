@@ -4,16 +4,4 @@
 
 # Tecnologias
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30"/>  
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="30"/>
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) | ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg) | ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | ![OpenCV](https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg) |
